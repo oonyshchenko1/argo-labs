@@ -6,5 +6,5 @@ resources:
 - preview-service.yaml
 images:
 - name: schoolofdevops/vote
-  newName: dev936/vote
-  newTag: 52eea4d
+  newName: schoolofdevops/vote
+  newTag: v9
